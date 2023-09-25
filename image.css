@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(156, 218, 218);
+}
+.container{
+    margin:10px 30px 0px 30px;
+    padding:10px 30px 0px 30px;
+    border:1px solid black;
+    border-radius: 2px;
+    background-color: crimson;
+}
+.image{
+    width:200px;
+    height: 200px;
+    border: 2px;
+    margin:10px;
+}
